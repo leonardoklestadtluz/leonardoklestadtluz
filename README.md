@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Leonardo K. Luz 🎉
 
-<!--
-**leonardoklestadtluz/leonardoklestadtluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+🚀 I'm a studying web development at [Rocketseat](https://rocketseat.com.br).
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡️ Main language: `Javascript`
+- ⬇️ Backend-end: `NodeJs` -> studying
+- ⬆️ Front-end: `HTML5`, `CSS3`, `Javascript` and `ReactJs` -> studying
+- 🎨 Layout design: `Figma`
+- 🔖 Version code control: `Git & Github`
+- 🔧 Tools: `VS Code`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📝 E-mail: klestadt@hotmail.com
+- 👷 LinkedIn: [Leonardo Klestadt Luz](https://www.linkedin.com/in/leonardo-klestadt-luz-54036419/)
+- 📱 Cell phone: +55 51 981 713 233
+- 🌐 Whatsapp: +55 51 981 713 233
