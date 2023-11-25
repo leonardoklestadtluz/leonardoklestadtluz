@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Leonardo K. Luz 🎉
 
 #### About
-🚀 I'm a studying web development at [Rocketseat](https://rocketseat.com.br).
+🚀 I'm a studying web development.
 
 #### Current stack
 - ⚡️ Main language: `Javascript`
-- ⬇️ Backend-end: `NodeJs` -> studying
-- ⬆️ Front-end: `HTML5`, `CSS3`, `Javascript` and `ReactJs` -> studying
+- ⬆️ Front-end: `HTML5`, `CSS3`, `Javascript`
 - 🎨 Layout design: `Figma`
 - 🔖 Version code control: `Git & Github`
 - 🔧 Tools: `VS Code`, `Markdown`
