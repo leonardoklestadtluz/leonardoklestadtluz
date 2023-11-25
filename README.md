@@ -6,6 +6,7 @@
 #### Current stack
 - ⚡️ Main language: `Javascript`
 - ⬆️ Front-end: `HTML5`, `CSS3`, `Javascript`
+- ⬆️ Back-end: `SQL`, `SQL Server`
 - 🎨 Layout design: `Figma`
 - 🔖 Version code control: `Git & Github`
 - 🔧 Tools: `VS Code`, `Markdown`
